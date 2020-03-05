@@ -19,14 +19,14 @@ const Header = (props) => {
 const styles =  {
 
     viewStyle : {
-        backgroundColor: '#F8F8F8',
+        backgroundColor: 'skyblue',
         justifyContent : 'center',
         alignItems : 'center',
 
     },
     textStyle : {
         
-        fontSize : 40 
+        fontSize : 30 
 
     }
 
